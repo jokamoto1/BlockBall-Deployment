@@ -1,0 +1,35 @@
+.court{
+  width: 800px;
+  height: 400px;
+  background-color: skyblue;
+  margin:auto;
+  display: flex;
+  justify-content: space-evenly;
+  border: black;
+  border-style: solid;
+  border-width: 10px;
+
+}
+.game{
+  background-color: whitesmoke;
+  padding: 100px;
+  height: 100vh;
+  width: 100vw;
+}
+.sides{
+  background-color: skyblue;
+  width: 370px;
+  height: auto;
+}
+.net{
+  background-color: grey;
+  width: 60px;
+  height: 230px;
+  margin-top: 150px;
+}
+.floor{
+  width: auto;
+  background-color: sandybrown;
+  height: 10px;
+  margin-top: 370px;
+}
